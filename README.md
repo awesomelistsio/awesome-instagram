@@ -36,6 +36,7 @@ This list is designed for developers, marketers, researchers, and content creato
 - [pyInstagram](https://github.com/facebookarchive/python-instagram) – Deprecated Python SDK for Instagram (historical reference).
 - [Instagram4j](https://github.com/Instagram4j/Instagram4j) – Java library for interacting with Instagram (Unofficial).
 - [Instaloader](https://github.com/instaloader/instaloader) – Download public Instagram photos, videos, and metadata.
+- [InstaWizard](https://github.com/5ou1e/insta-wizard) – Python library for working with Instagram (unofficial mobile and web API).
 
 ## Development Tools
 
