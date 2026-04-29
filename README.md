@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Zapier Instagram Integrations](https://zapier.com/apps/instagram/integrations) – Automate workflows with Instagram.
 - [Combin](https://www.combin.com/) – Instagram growth and engagement software.
 - [Preview App](https://thepreviewapp.com/) – Plan and design Instagram feed layouts.
+- [Cyber Collector](https://t.me/cybercollectorbot) – Telegram bot to download Instagram Reels and Stories (no watermark, no signup required).
 
 ## Communities & Forums
 
