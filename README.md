@@ -60,6 +60,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) – Plan and monitor Instagram content.
 - [Canva](https://www.canva.com/create/instagram-posts/) – Design tools specifically for Instagram visuals.
 - [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) – Manage content, monetization, and insights for Instagram accounts.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Third-Party Tools
 
