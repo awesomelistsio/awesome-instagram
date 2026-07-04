@@ -50,6 +50,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Instagram Insights](https://business.instagram.com/insights) – Official analytics for business accounts.
 - [Social Blade: Instagram](https://socialblade.com/instagram/) – Public account stats and analytics.
+- [igtrackr](https://igtrackr.com) – Free Instagram tracker and analytics for any public account — followers, recent follows, unfollows, and engagement rate, no login required.
 - [HypeAuditor](https://hypeauditor.com/) – Influencer analytics and audience verification.
 - [Phlanx Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) – Check account engagement rates.
 
