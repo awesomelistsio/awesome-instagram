@@ -60,6 +60,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) – Plan and monitor Instagram content.
 - [Canva](https://www.canva.com/create/instagram-posts/) – Design tools specifically for Instagram visuals.
 - [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) – Manage content, monetization, and insights for Instagram accounts.
+- [Instagram Marketing Skills](https://github.com/sergebulaev/instagram-skills) – Open-source Claude Code and Codex skills to plan, write, and publish Instagram captions and Reels hooks in your voice, with an AI-tell humanizer. MIT.
 
 ## Third-Party Tools
 
