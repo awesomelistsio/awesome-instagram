@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Marketing & Growth
 
+- [SocialClaw](https://getsocialclaw.com/) – Schedule and publish posts to Instagram and 10 other platforms via dashboard, API, CLI, or MCP.
 - [Later](https://later.com/) – Social media scheduling and analytics for Instagram.
 - [Buffer](https://buffer.com/) – Multi-platform social media management tool.
 - [Hootsuite](https://hootsuite.com/) – Plan and monitor Instagram content.
